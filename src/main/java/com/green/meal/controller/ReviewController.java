@@ -26,8 +26,7 @@ public class ReviewController {
     @Autowired
     ReviewService reviewService;
 
-//    @Autowired
-//    ItemService
+    // git bash 연결 테스트2
 
     // ** 상세페이지 리뷰리스트
     @RequestMapping(value="/itemReview")
